@@ -1,4 +1,1 @@
-# cw1
-Dominik Mizyn
-22C
-S14314
+# Dominik Mizyn(S14314) 22C
